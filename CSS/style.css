@@ -1,0 +1,6 @@
+body {background-color:rgb(43, 39, 39);}
+.jumbotron{background-image:url("../Images/Bacteria.jpg")}
+.jumbotron h1{color:snow;}
+.jumbotron p{color:rgb(238, 234, 255);}
+.jumbotron h1{font-family:fantasy;}
+.jumbotron p{font-family:calibri; font-size:x-large; font-style: bold;}
