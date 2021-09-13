@@ -1,2 +1,2 @@
-# Plotly-Challenge
+# BELLYBUTTON DIVERSITY
 Module 12 Challenge
